@@ -14,7 +14,7 @@ All About Pokemon is a platform for users to learn everything about Pokemon. The
 
 Access Project Folder and Download Dependencies
 ```
-cd allAboutPokemon
+cd All-About-Pokemon-Main
 npm install
 ```
 
