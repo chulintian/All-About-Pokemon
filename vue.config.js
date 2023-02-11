@@ -1,4 +1,5 @@
 const { defineConfig } = require('@vue/cli-service')
 module.exports = defineConfig({
-  transpileDependencies: true
+  transpileDependencies: true,
+  transformIgnorePatterns: ['/node_modules/(?!lib-to-transform|other-lib)']
 })

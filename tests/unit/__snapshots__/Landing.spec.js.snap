@@ -1,0 +1,139 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LandingPage renders correctly 1`] = `
+<div>
+  <div
+    class="p-3"
+  >
+    <div
+      class="container-fluid"
+    >
+      <div
+        class="row"
+      >
+        <div
+          class="col-6 col-md-3 p-2"
+        >
+          <div
+            class="bg-gold-yellow rounded-3 d-flex justify-content-center align-items-center p-3 h-100"
+          >
+            <img
+              alt="pokeball pic"
+              class="w-75"
+              src=""
+            />
+          </div>
+        </div>
+        <div
+          class="col-6 col-md-3 p-2"
+        >
+          <div
+            class="bg-blue rounded-3 d-flex justify-content-center align-items-center p-3 h-100"
+          >
+            <img
+              alt="charmander pic"
+              class="w-75"
+              src=""
+            />
+          </div>
+        </div>
+        <div
+          class="col-6 col-md-3 p-2"
+        >
+          <div
+            class="bg-gold-foil rounded-3 d-flex justify-content-center align-items-center p-3 h-100"
+          >
+            <img
+              alt="snorlax pic"
+              class="w-75"
+              src=""
+            />
+          </div>
+        </div>
+        <div
+          class="col-6 col-md-3 p-2"
+        >
+          <div
+            class="bg-red rounded-3 d-flex justify-content-center align-items-center p-3 h-100"
+          >
+            <img
+              alt="pikachu pic"
+              class="w-75"
+              src=""
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="d-flex justify-content-center"
+    >
+      <h2
+        class="text-center p-3"
+      >
+        Join us on a Pokemon Adventure NOW
+      </h2>
+    </div>
+    <div
+      class="container-fluid"
+    >
+      <div
+        class="row"
+      >
+        <div
+          class="col-6 col-sm-4 col-md-3 p-2"
+        >
+          <div
+            class="bg-red rounded-3 d-flex justify-content-center align-items-center p-3 h-100"
+          >
+            <img
+              alt="evee pic"
+              class="w-75"
+              src=""
+            />
+          </div>
+        </div>
+        <div
+          class="col-6 col-sm-4 col-md-3 p-2"
+        >
+          <div
+            class="bg-gold-foil rounded-3 d-flex justify-content-center align-items-center p-3 h-100"
+          >
+            <img
+              alt="corsola pic"
+              class="w-75"
+              src=""
+            />
+          </div>
+        </div>
+        <div
+          class="col-6 col-sm-4 col-md-3 p-2"
+        >
+          <div
+            class="bg-blue rounded-3 d-flex justify-content-center align-items-center p-3 h-100"
+          >
+            <img
+              alt="main guy pic"
+              class="w-50"
+              src=""
+            />
+          </div>
+        </div>
+        <div
+          class="col-6 col-sm-4 col-md-3 p-2"
+        >
+          <div
+            class="bg-gold-yellow rounded-3 d-flex justify-content-center align-items-center p-3 h-100"
+          >
+            <img
+              alt="swadloon pic"
+              class="w-75"
+              src=""
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
